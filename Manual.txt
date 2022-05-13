@@ -1,0 +1,25 @@
+Students Grade Calculator 
+
+Purpose of the application: This application will help the instructors to calculate the total marks, average marks, and grades of students. It can also modify this tool in such a manner that, it automatically saves all the records in the document.
+
+Reasons for this application: 
+It is easy to implement
+It simplifies the calculations of students’ grade
+It will be flexible and easy to manipulate.
+
+The goals of the application:
+This tool is very helpful for teachers who spend too much time in the calculation of student marks. Teachers and students can use it to work fast.
+
+Target Audience: High School Teachers and students. Age (Students): 12-18 years old, (Teachers): 25-50 years old
+
+
+Make sure you install the dependencies on your PC before you run the program.
+Dependencies:
+Python 3 
+Pillow 
+
+
+
+Github link:
+
+https://github.com/oye007/GradeCalculator.git
